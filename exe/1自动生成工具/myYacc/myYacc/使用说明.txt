@@ -1,0 +1,9 @@
+1 g.txt中输入拓广文法（Z代替S',$表示空）
+例如 S->aABd的话记为SaABd
+ZS
+BaB
+SBB
+Bb
+
+2 点击myYacc,输出代码文件test2.cpp
+

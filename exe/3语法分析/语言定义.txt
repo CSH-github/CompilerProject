@@ -1,0 +1,48 @@
+1关键字
+bool
+break
+case
+catch
+char
+class
+const
+continue
+default
+delete
+do
+double
+else
+false
+float
+for
+if
+int
+long
+namespace
+new
+private
+protected
+public
+return
+short
+sizeof
+static
+struct
+switch
+this
+throw
+true
+try
+void
+while
+2标识符
+ 字母开头，包含数字或字母（小写）
+3常数
+ 无符号常数
+4运算符
+ + - * / %  //算数运算符
+ > < >= <= //关系运算符
+ = 		//赋值运算符
+( )  //其他运算符
+5界符
+ , ; { }

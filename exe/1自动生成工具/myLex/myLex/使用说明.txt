@@ -1,0 +1,17 @@
+1 在in.txt中输入文法
+输入格式如下：
+VN1 VT2 VN3
+.....
+第一个VN为开始符号
+如S->bA 则为 S b A
+如S->a 则为 S a NULL
+如S->NULL 则为 S NULL NULL
+最多为26个状态
+
+2 然后依次点击G_to_NFA.exe,NFA_to_DFA.exe,Min_DFA.exe，即可得到代码文件
+test.cpp
+
+对应文件的功能如下： 
+G_to_NFA 将文法转换成NFA,输出在out1.txt中
+NFA_to_DFA.exe 将NFA转换成
+Min_DFA.exe 将DFA最小化，并且输出cpp文件

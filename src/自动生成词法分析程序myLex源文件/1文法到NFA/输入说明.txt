@@ -1,0 +1,7 @@
+VN1 VT2 VN3
+.....
+第一个VN为开始符号
+如S->bA 则为 S b A
+如S->a 则为 S a NULL
+如S->NULL 则为 S NULL NULL
+最多为26个状态

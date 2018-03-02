@@ -1,0 +1,16 @@
+S d A
+S . B
+S e C
+A d A 
+A . B
+A e C
+A NULL NULL
+B d D
+D e C
+D d D
+D NULL NULL
+C d E
+C s F
+F d E
+E d E
+E NULL NULL

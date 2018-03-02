@@ -1,0 +1,10 @@
+S + NULL
+S - NULL
+S * NULL
+S / NULL
+S = NULL
+S < NULL
+S > NULL
+S < A
+S > A
+A = NULL

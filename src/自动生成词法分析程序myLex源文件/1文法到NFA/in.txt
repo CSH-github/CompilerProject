@@ -1,0 +1,17 @@
+S a A
+S b Q
+A a A
+A b B
+A b NULL
+B b D
+B a Q
+Q a Q
+Q b D
+Q b NULL
+D b B
+D a A
+E a B
+E b F
+F b D
+F a E
+F b NULL

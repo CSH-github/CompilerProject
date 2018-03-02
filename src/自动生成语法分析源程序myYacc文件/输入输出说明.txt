@@ -1,0 +1,6 @@
+g.txt中输入拓广文法（Z代替S',$表示空,不能输入空）
+例如 S->aABd的话记为SaABd
+ZS
+BaB
+SBB
+Bb
